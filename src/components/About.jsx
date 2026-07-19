@@ -5,7 +5,7 @@ import person4 from "../assets/bni1.png";
 import person5 from "../assets/Dr.-Gaikwad1.png";
 
 import soul from "../assets/Brand-identity-setup-1.png";
-import science from "../assets/Digital-infrastructure.png";
+import science from "../assets/Digital-Infrastructure.png";
 import scale from "../assets/Image-re-engineering.png";
 
 import { motion } from "framer-motion";
